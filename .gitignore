@@ -1,0 +1,28 @@
+# Build folders
+build/
+cmake-build-debug/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary editor files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+.idea/
+.vscode/
